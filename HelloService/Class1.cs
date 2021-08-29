@@ -7,5 +7,6 @@ namespace HelloService
 {
     public class Class1
     {
+        private string branchName = "Branch1";
     }
 }
